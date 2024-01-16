@@ -1,0 +1,5 @@
+build
+dist
+temp
+.ipynb_checkpoints
+product_names_pretifier.ipynb
